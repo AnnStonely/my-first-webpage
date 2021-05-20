@@ -1,0 +1,20 @@
+h1{
+  font-size: large;
+  font-family: serif;
+  color: darkblue;
+}
+h2{
+  font-size: medium;
+  font-family: serif;
+  color: blue;
+}
+h3{
+  font-size: medium;
+  font-family: serif;
+  color: green;
+}
+p{
+  font-size: small;
+  font-family: serif;
+  line-height: 30px;
+}
